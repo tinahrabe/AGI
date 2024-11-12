@@ -102,4 +102,25 @@ a {
     width: 250px;
 }
 
-.liste {}
+
+.titre {
+    margin-left: 50px;
+    color: blue;
+}
+
+.liste li {
+    list-style-type: none;
+    color: black;
+}
+
+.fa {
+    color: orangered;
+}
+
+.liste li {
+    margin-left: 60px;
+}
+
+i {
+    margin-right: 20px;
+}
