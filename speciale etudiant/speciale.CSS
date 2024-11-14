@@ -1,0 +1,36 @@
+body{
+    color: rgba(0, 0, 255, 0.425);
+}
+.combinaisonimagetext
+{
+    display: flex;
+}
+.combinaisonimagetext .textprèsdeimage p
+{
+    line-height: 2.5rem;
+    letter-spacing: 1px;   
+}    
+.combinaisonimagetext .textprèsdeimage{
+    margin-left: 4rem;
+}
+.titreh h3{
+    text-align: center;
+    color: rgba(0, 0, 255, 0.5);
+}
+.bouttonspeciale
+{
+    
+    display: flex;
+    justify-content: space-around;
+}
+.bouttonspeciale button
+{
+    color: white;
+    padding: 10px;
+    background-color: #000;
+    border-radius: 33px;
+}
+.bouttonspeciale button:hover
+{
+    cursor: pointer;
+}
