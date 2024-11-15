@@ -1,0 +1,161 @@
+.navbarlist {
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    margin-top: 30px;
+}
+
+.navbar {
+    display: flex;
+}
+
+.onglet {}
+
+.onglet ul li {
+    list-style-type: none;
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.onglet ul li:hover {
+    text-decoration: underline orangered solid 3px;
+}
+
+.onglet ul li a {
+    text-decoration-line: none;
+    color: black;
+}
+
+.onglet ul {
+    display: flex;
+}
+
+i {
+    margin-top: 3.3rem;
+}
+
+/**modif section1**/
+.section1 {
+    background-image: url(photo/section1.jpg);
+    height: 500px;
+}
+
+.soratra {
+    background-color: blue;
+    height: 300px;
+    width: 500px;
+    margin-top: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    float: right;
+}
+
+.soratra h1 {
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.soratra p {
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+.section2 {
+    display: flex;
+}
+
+.texte {
+    text-align: center;
+}
+
+.titre {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+.paragraphe {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraphe2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.boutton {
+    background-color: black;
+    color: white;
+    border-radius: 5rem;
+    border: 0;
+    padding: 0.5rem;
+    margin-left: 300px;
+}
+
+.section3 {
+    background-color: rgb(6, 6, 107);
+}
+
+.titre2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+.corps {
+    display: flex;
+}
+
+.texte2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+}
+
+.sary {
+    margin-left: 20rem;
+    margin-top: 5rem;
+}
+
+.texte2 button {
+    border: none;
+    background-color: chocolate;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.section4 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section4 h1 {
+    color: chocolate;
+}
+
+footer {
+    display: flex;
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+footer div h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+}
+
+.style i {
+    font-size: 5rem;
+    margin-right: 3rem;
+    margin-bottom: 200px;
+    color: greenyellow;
+
+}
