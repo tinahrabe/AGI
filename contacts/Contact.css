@@ -92,6 +92,13 @@ footer
     background-color: rgba(13, 13, 175, 0.842);
     padding-bottom: 1rem;
 }
+.grandivfooter .footerlogolien a{
+    transition: 1.5s;
+}
+.grandivfooter .footerlogolien a:hover{
+    transform: translateY(-10px);
+  
+}
 .Troisièmedivfooter li
 {
    margin: 1rem;

@@ -4,11 +4,12 @@ body{
 .combinaisonimagetext
 {
     display: flex;
+    margin-top: 3rem;
 }
 .combinaisonimagetext .textprèsdeimage p
 {
     line-height: 2.5rem;
-    letter-spacing: 1px;   
+      
 }    
 .combinaisonimagetext .textprèsdeimage{
     margin-left: 4rem;
@@ -33,4 +34,5 @@ body{
 .bouttonspeciale button:hover
 {
     cursor: pointer;
+    transform: scale(1.05);
 }
