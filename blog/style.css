@@ -13,3 +13,41 @@ button  {
     padding: 5px;
     border-radius: 5px;
 }
+footer
+{
+    background-color: rgba(13, 13, 175, 0.842);
+    padding-bottom: 1rem;
+    margin-top: 2rem;
+}
+.grandivfooter .footerlogolien a{
+    transition: 1.5s;
+}
+.grandivfooter .footerlogolien a:hover{
+    transform: translateY(-10px);
+  
+}
+.Troisièmedivfooter li
+{
+   margin: 1rem;
+}
+p
+{
+  text-align: center;
+  color: #fff;
+  
+}
+li{
+    list-style-type:none ;
+}
+.grandivfooter
+{
+display: flex;
+justify-content: space-around;
+
+color: white;
+padding: 55px;
+
+}
+@media screen and (max-width:920px){
+    body{margin-left: 0px;}
+}
