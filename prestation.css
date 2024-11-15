@@ -1,0 +1,135 @@
+.back {
+    background-image: url(photo/personne2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+    height: 500px;
+
+}
+
+.entete {
+    background: rgba(0, 0, 255, 0.5);
+    width: 500px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 200px;
+}
+
+.entete h1 {
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.entete p {
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.container {
+    display: flex;
+    margin-top: 10px;
+    padding: 20px;
+    gap: 40px;
+    justify-content: center;
+}
+
+.paragraphe {
+    text-align: center;
+    color: orangered;
+}
+
+.paragraphe3 {
+    color: orangered;
+    margin-left: 1050px;
+    margin-bottom: 100px;
+}
+
+#voirplus {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5rem;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#voirplus:hover {
+    background-color: aqua;
+}
+
+.image {
+    position: relative;
+    display: inline-block;
+}
+
+.image img {
+    display: block;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.titre {
+    margin-left: 50px;
+    color: blue;
+}
+
+.liste li {
+    list-style-type: none;
+    color: black;
+}
+
+.fa {
+    color: orangered;
+}
+
+.liste li {
+    margin-left: 60px;
+}
+
+i {
+    margin-right: 20px;
+}
+
+footer {
+    display: flex;
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+footer div h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+}
+
+.style i {
+    font-size: 5rem;
+    margin-right: 3rem;
+    margin-bottom: 200px;
+    color: greenyellow;
+
+}
